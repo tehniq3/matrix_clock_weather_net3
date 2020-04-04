@@ -19,6 +19,8 @@
   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
+  
+  Nicu Florica (niq_ro) just make small changs: dd degree symbol, wind in km/h, pressure in mmH
 */
 
 /**********************************************
