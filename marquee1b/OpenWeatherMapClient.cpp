@@ -163,7 +163,7 @@ String OpenWeatherMapClient::roundValue(String value) {
 String OpenWeatherMapClient::roundValue1(String value) {
   float f = value.toFloat();
   int f1 = 10*f;
-  String(rounded1) = String(f1/10) + "." + String(f1%10);
+  String(rounded1) = String(f1/10) + "." + String(abs(f1)%10);
   return String(rounded1);
 }
 
