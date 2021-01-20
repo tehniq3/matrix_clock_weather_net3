@@ -1,7 +1,11 @@
 # matrix_clock_weather_net3
 based on https://github.com/Qrome/marquee-scroller
+
 all info are there !!!!
+
 3D case: https://www.thingiverse.com/thing:2867294
+
+my article: https://nicuflorica.blogspot.com/2020/04/ceas-animat-complex-cu-date-de-pe-net.html
 
 ![schematic](https://github.com/Qrome/marquee-scroller/raw/master/images/marquee_scroller_pins.png)
 
