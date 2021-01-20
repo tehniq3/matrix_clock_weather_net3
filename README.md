@@ -9,6 +9,8 @@ my article: https://nicuflorica.blogspot.com/2020/04/ceas-animat-complex-cu-date
 
 ![schematic](https://github.com/Qrome/marquee-scroller/raw/master/images/marquee_scroller_pins.png)
 
+you must copy all files in sketch folder, like here:
+![files](https://1.bp.blogspot.com/-hW52lYSdEgY/Xos_KGB9mPI/AAAAAAAAb4U/Id_A5XOddzgYp-U0icWJpTBEyE2lJKlywCLcBGAsYHQ/s1600/program.png)
 
 I just make small changes:
 - add degree symbol
